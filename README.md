@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sharofiddin
 - 👀 I’m interested in reading, coding, gaming.
-- 🌱 I’m currently learning java in depth, architecture and other stuffs like functional programming.
-- 💞️ I’m looking to collaborate on imporving opensource libraries and projects.
+- 🌱 I’m currently learning Java in-depth, architecture, and other stuff like functional programming.
+- 💞️ I’m looking to collaborate on improving open-source libraries and projects.
 - 📫 How to reach me email - pardayev.sharofiddin@gmail.com
 
 <!---
